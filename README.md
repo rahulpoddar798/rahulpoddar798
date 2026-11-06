@@ -1,12 +1,15 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Hi%20there,%20I'm%20Rahul%20Poddar%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Systems%20Engineer%20%7C%20Knowledge%20Graphs%20%26%20Multi-Agent%20AI&descAlignY=62&descAlign=50&descSize=18" width="100%"/>
+<!-- Local Self-Hosted Banner (Zero External Downtime) -->
+<img src="./assets/banner.svg" alt="Rahul Poddar - Backend & Systems Engineer" width="100%" />
 
-<!-- Typing Dynamic Tagline -->
-<a href="https://github.com/rahulpoddar798">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Deterministic+Knowledge+Graph+Safety+%E2%80%A2+Neo4j+Aura;5-Agent+Dialectical+Debate+Pipelines;High-Performance+Backend+Systems+%E2%80%A2+C%2B%2B+%26+Node.js;Full-Stack+Web+Architecture+%E2%80%A2+TypeScript+%26+PostgreSQL" alt="Typing SVG" />
-</a>
+<br/>
+
+<p align="center">
+  <code>Deterministic Clinical Graph Safety • Neo4j Aura</code> &nbsp;•&nbsp; 
+  <code>5-Agent Dialectical Debate Pipeline</code> &nbsp;•&nbsp; 
+  <code>High-Performance Backend Systems</code>
+</p>
 
 <p align="center">
   <a href="mailto:rahulpoddar798@gmail.com"><img src="https://img.shields.io/badge/Email-rahulpoddar798%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -81,10 +84,5 @@
 ---
 
 <div align="center">
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=100&section=footer" width="100%"/>
-
-<sub>Crafted with precision by <strong>Rahul Poddar</strong> • Driven by Engineering Excellence</sub>
-
+  <sub>Crafted with precision by <strong>Rahul Poddar</strong> • Driven by Engineering Excellence</sub>
 </div>
