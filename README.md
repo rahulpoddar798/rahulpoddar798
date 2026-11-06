@@ -5,7 +5,7 @@
 
 <!-- Typing Dynamic Tagline -->
 <a href="https://github.com/rahulpoddar798">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&height=45&lines=Deterministic+Knowledge+Graph+Safety+%E2%80%A2+Neo4j+Aura;5-Agent+Dialectical+Debate+Pipelines;High-Performance+Backend+Systems+%E2%80%A2+C%2B%2B+%26+Node.js;Full-Stack+Web+Architecture+%E2%80%A2+TypeScript+%26+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Deterministic+Knowledge+Graph+Safety+%E2%80%A2+Neo4j+Aura;5-Agent+Dialectical+Debate+Pipelines;High-Performance+Backend+Systems+%E2%80%A2+C%2B%2B+%26+Node.js;Full-Stack+Web+Architecture+%E2%80%A2+TypeScript+%26+PostgreSQL" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -68,9 +68,11 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulpoddar798&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="165" alt="Rahul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpoddar798&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="165" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=rahulpoddar798&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Rahul's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=rahulpoddar798&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=rahulpoddar798&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak" />
